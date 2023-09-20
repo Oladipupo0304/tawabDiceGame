@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.exe
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.deps.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\bin\Debug\net7.0\SimpleDiceGame.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\refint\SimpleDiceGame.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\SimpleDiceGame.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\SimpleDiceGame\obj\Debug\net7.0\ref\SimpleDiceGame.dll
